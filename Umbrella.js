@@ -7,7 +7,7 @@ class Umbrella{
    
     this.body= Bodies.circle(x, y, 120,options);
     this.r =r;
-    this.image = loadImage("images/walking_8.png");
+    this.image = loadImage("walking_8.png");
 
     World.add(world , this.body);
     }
