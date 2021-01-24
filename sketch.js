@@ -10,10 +10,10 @@ var maxDrops = 100;
 var umbrellabody,num;
 
 function preload(){
-lightning1 = loadImage("images/1.png");
-lightning2 = loadImage("images/2.png");
-lightning3 = loadImage("images/3.png");
-lightning4 = loadImage("images/4.png");
+lightning1 = loadImage("1.png");
+lightning2 = loadImage("2.png");
+lightning3 = loadImage("3.png");
+lightning4 = loadImage("4.png");
 }
 
 function setup(){
